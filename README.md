@@ -1,6 +1,10 @@
 # Pico QwiicReset Addon
 Plug, Reset, and Prototype Effortlessly.
 
+
+https://github.com/adriangalilea/pico_qwiic_addon/assets/90320947/8367507b-55c4-4f87-a407-c8dec5c27a95
+
+
 Available [here](https://www.duppa.net/shop/rpi-pico-reset-button-qwiic-connector/)
 
 ## Pico Pain Points
@@ -26,8 +30,16 @@ i2c = busio.I2C(board.GP27, board.GP26)
 The ultimate add-on to turbocharge your Raspberry Pi Pico (and Pico W!) experience.
 
 # Installation
-Solder it in the right pins.
+Place it in the right spot:
 
+![image](https://github.com/adriangalilea/pico_qwiic_addon/assets/90320947/3c39b017-19d3-4dff-a257-d158bc8747f9)
+
+Solder
+- **With pins**
+![IMG_2428](https://github.com/adriangalilea/pico_qwiic_addon/assets/90320947/dd74b585-b882-4d4b-8c6a-648e3f6db83c)
+
+- **Without pins**
+![IMG_2491](https://github.com/adriangalilea/pico_qwiic_addon/assets/90320947/621e9f45-daf0-4ff9-8bf1-081d0815dfab)
 
 ## Compatibility
 - **Fully Compatible**: Works seamlessly with the Pico and Pico W.
